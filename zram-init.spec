@@ -1,5 +1,5 @@
 Name:		zram-init
-Version:	10.9
+Version:	10.12
 Release:	1
 
 Summary:	Init and set up swap device in /dev/zram0
