@@ -1,7 +1,7 @@
 Summary:	Init and set up swap device in /dev/zram0
 Name:		zram-init
-Version:	11.1
-Release:	4
+Version:	12.0
+Release:	1
 License:	GPL
 Group:		System/Base
 BuildArch:	noarch
